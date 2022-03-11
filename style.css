@@ -73,7 +73,7 @@ main{
             z-index: 3;
 }
 
-        .bolinhas::after{
+        .bolinhas:after{
             position: absolute;
             content: '';
             /* left: 1rem; */
@@ -87,7 +87,7 @@ main{
             animation: color 10s ease-in-out 2s infinite alternate both;
         }
 
-        .bolinhas::before{
+        .bolinhas:before{
             position: absolute;
             content: '';
             /* left: 1rem; */
