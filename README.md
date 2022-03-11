@@ -1,4 +1,4 @@
-<div class='container' style='align: center'>
+<div align="center">
 
 # Fetch_API_Teste
 Just a try for use the Fecth, training JavaScript.
